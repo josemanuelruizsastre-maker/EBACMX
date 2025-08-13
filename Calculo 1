@@ -1,0 +1,9 @@
+a = 10
+b= 15
+c= 30*5
+
+print('Resultado=', c)
+d = c *200
+
+print('Resultado total=', d)
+#cambio a factor 200
