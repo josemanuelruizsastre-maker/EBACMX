@@ -1,2 +1,2 @@
 # EBACMX
-Repositorio para mis tareas de EBAC
+Repositorio de mis trabajos de EBAC
